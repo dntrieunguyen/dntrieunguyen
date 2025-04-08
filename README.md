@@ -1,5 +1,5 @@
 # Dang Nguyen Trieu Nguyen (Jason D)  
-### Web Developer 
+### Web Developer  
 
 Hello! I’m a passionate web developer based in Danang, Vietnam, with a strong focus on building modern, high-performance web applications. I specialize in **React.js**, **Next.js**, **Vue.js**, and **Nest.js**, complemented by backend expertise in **Django REST Framework**, **Laravel**, and **Python**. I thrive in collaborative, agile environments and enjoy crafting seamless frontend-backend integrations, efficient RESTful APIs, and user-centric solutions.
 
@@ -8,54 +8,32 @@ Hello! I’m a passionate web developer based in Danang, Vietnam, with a strong 
 ### 🔧 What I Bring to the Table  
 
 - **Languages**:  
-  ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript  
-  ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) TypeScript  
-  ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20" /> JavaScript &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20" height="20" /> TypeScript &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20" /> Python  
 
 - **Frontend**:  
-  ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) React.js  
-  ![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg) Next.js  
-  ![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg) Vue.js  
-  ![Redux](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg) Redux  
-  ![RTK Query](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg) RTK Query  
-  ![TailwindCSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg) TailwindCSS  
-  ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg) Bootstrap  
-  ![SCSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg) SCSS/SASS  
-  ![ElementPlus](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg) ElementPlus  
-  ![Pinia](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg) Pinia  
-  ![NextUI](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) NextUI  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20" /> React.js &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="20" height="20" /> Next.js &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="20" height="20" /> Vue.js &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="20" height="20" /> Redux &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="20" height="20" /> RTK Query &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="20" height="20" /> TailwindCSS &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="20" height="20" /> Bootstrap &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="20" height="20" /> SCSS/SASS &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="20" height="20" /> ElementPlus &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="20" height="20" /> Pinia &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20" /> NextUI  
 
 - **Backend**:  
-  ![Nest.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg) Nest.js  
-  ![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg) Django REST Framework  
-  ![Laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg) Laravel  
-  ![Prisma](https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg) Prisma  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="20" height="20" /> Nest.js &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="20" height="20" /> Django REST Framework &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="20" height="20" /> Laravel &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="20" height="20" /> Prisma  
 
 - **Databases**:  
-  ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) MySQL  
-  ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg) MongoDB  
-  ![Supabase](https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg) Supabase  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20" height="20" /> MySQL &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="20" height="20" /> MongoDB &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="20" height="20" /> Supabase  
 
 - **Tools & Cloud**:  
-  ![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg) AWS (S3)  
-  ![Firebase](https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg) Firebase Authentication  
-  ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) Git  
-  ![Agile/Scrum](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) Agile/Scrum  
-  ![Backlog](https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg) Backlog  
-  ![Notion](https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg) Notion  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="20" height="20" /> AWS (S3) &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="20" height="20" /> Firebase Authentication &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20" height="20" /> Git &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20" height="20" /> Agile/Scrum &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="20" height="20" /> Backlog &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" width="20" height="20" /> Notion  
 
 - **Methodologies**:  
-  ![Agile Scrum](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) Agile Scrum  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20" height="20" /> Agile Scrum  
 
 ---
 
 ### 🌟 Recent Projects  
-- **[Buzzriya](service.buzzriya.com)**  
+- **[Buzzriya](https://service.buzzriya.com)**  
   *Frontend Developer | Mar 2025 – Present*  
   An online platform for beauty, fitness, and business services. Built admin dashboards with **React.js** and optimized performance using **Next.js** and **TailwindCSS**.  
   Tech: Next.js, Redux, MySQL, Laravel  
 
-- **[Upstar]([https://your-project-link.com](https://www.emer.co.jp/upstar))**  
+- **[Upstar](https://www.emer.co.jp/upstar)**  
   *Web Developer | Sep 2023 – Present*  
   A fandom platform supporting athletes. Developed RESTful APIs with **Nest.js** and dashboards with **Vue.js**.  
   Tech: Vue.js, Nest.js, AWS (S3), Firebase  
@@ -63,9 +41,9 @@ Hello! I’m a passionate web developer based in Danang, Vietnam, with a strong 
 ---
 
 ### 🌐 Let’s Connect  
-- 📧 ![Email](https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg) [dntrieunguyen@gmail.com](mailto:dntrieunguyen@gmail.com)  
-- 🔗 ![LinkedIn](https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg) [LinkedIn](https://www.linkedin.com/in/dntrieunguyen/)  
-- 💬 ![Chat](https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg) Feel free to reach out for collaboration or just to chat about tech!  
+- 📧 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="20" height="20" /> [dntrieunguyen@gmail.com](mailto:dntrieunguyen@gmail.com)  
+- 🔗 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="20" height="20" /> [LinkedIn](https://www.linkedin.com/in/dntrieunguyen/)  
+- 💬 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" width="20" height="20" /> Feel free to reach out for collaboration or just to chat about tech!  
 
 ---
 
